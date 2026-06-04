@@ -13,7 +13,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
@@ -51,7 +51,7 @@ print(me.motto())
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -84,7 +84,7 @@ print(me.motto())
 
 ---
 
-## 🔥 Streak Stats
+## Streak Stats
 
 <div align="center">
 
@@ -94,7 +94,7 @@ print(me.motto())
 
 ---
 
-## 📈 Activity Graph
+## Activity Graph
 
 <div align="center">
 
@@ -105,7 +105,7 @@ print(me.motto())
 ---
 
 
-## 💼 Work Experience
+## Work Experience
 
 <details>
 <summary><b>🏢 GLITCHLABZ — Full Stack Intern · May 2025 – July 2025 · Chennai, India</b></summary>
@@ -136,7 +136,7 @@ print(me.motto())
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -150,7 +150,7 @@ print(me.motto())
 
 ---
 
-## 🏅 Achievements
+## Achievements
 
 <div align="center">
 
@@ -167,7 +167,7 @@ print(me.motto())
 
 ---
 
-## 🎓 Education
+## Education
 
 <div align="center">
 
@@ -181,7 +181,7 @@ print(me.motto())
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
 ```
 🌐 Advanced React  →  Context API, Custom Hooks, Performance Optimization
